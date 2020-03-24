@@ -1,3 +1,3 @@
 # My-first-project
 LEARNING
-exploring git hub
+<h2>exploring git hub</h2>
